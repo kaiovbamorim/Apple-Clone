@@ -1,7 +1,7 @@
 # Apple - Clone
 Clone página principal da Apple feito apenas com HTML e CSS! 🍎🔥
 <br>
-Link: https://kaiovbamorim.github.io/Clone-Apple/
+Link: https://kaiovbamorim.github.io/Apple-Clone/
 
 <img src="https://user-images.githubusercontent.com/108599877/178340630-9a7aac97-ce86-4d6b-a4ad-6bf00cd12731.png">
 
