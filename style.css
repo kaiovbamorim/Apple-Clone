@@ -94,29 +94,6 @@ main {
     display: none;
 }
 
-.input-bt-menu:checked+label span:nth-child(1) {
-    transition: 0.5s;
-    transform: translateY(5px) rotate(45deg);
-}
-
-.input-bt-menu:checked+label span:nth-child(2) {
-    transition: 0.5s;
-    transform: translateY(-2px) rotate(-45deg);
-}
-
-.input-bt-menu:default~.menu {
-    transition: 1s;
-}
-
-.input-bt-menu:checked~.menu {
-    height: 100vh;
-    transition: 0.5s;
-}
-
-.input-bt-sacola {
-    display: block;
-}
-
 .container-sacola {
     position: absolute;
     top: 44px;
@@ -124,7 +101,6 @@ main {
     transform: translateX(-50%);
     max-width: 1240px;
     width: 100vw;
-
 }
 
 .sacola {
@@ -140,10 +116,6 @@ main {
 }
 
 .sacola-active {
-    display: flex;
-}
-
-.input-bt-sacola:checked~.sacola {
     display: flex;
 }
 
@@ -302,37 +274,6 @@ main {
     object-fit: cover;
     object-position: 0px -3px;
     overflow-y: hidden;
-}
-
-.unicef {
-    background-color: #F5F5F7;
-    width: 100%;
-    margin-top: 45px;
-}
-
-.content-unicef {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.img-unicef {
-    margin-right: 20px;
-    margin-left: 0;
-}
-
-.img-unicef img {
-    width: 120px;
-}
-
-.content-unicef a {
-    color: #3B7CD3;
-    text-decoration: none;
-    font-size: 14px;
-}
-
-.content-unicef a:hover {
-    text-decoration: underline;
 }
 
 .iphone-14 {
@@ -824,14 +765,6 @@ main {
     font-weight: normal;
 }
 
-input[type="checkbox"] {
-    display: none;
-}
-
-button {
-    display: none;
-}
-
 .footer-local {
     border-bottom: 1px solid #88888D;
     padding-bottom: 10px;
@@ -916,7 +849,7 @@ button {
     }
 
     .iphone-14 h2,
-    .macbook h2 {
+    .ipad h2 {
         font-size: 45px;
     }
 
@@ -1369,6 +1302,7 @@ button {
     .ipad h2 {
         font-size: 30px;
         margin-bottom: 4px;
+        padding-top: 45px;
     }
 
     .ipad h3 {
@@ -1382,15 +1316,9 @@ button {
     .ipad a:after {
         font-size: 16px;
     }
-
-
-
     .texto-ipad {
         margin-left: 0;
-        margin-top: 50px;
     }
-
-
 
     .title-iphone-14-pro img {
         margin-bottom: 10px;
@@ -1454,11 +1382,12 @@ button {
         width: 80%;
     }
 }
-@media(max-width: 270px){
+
+@media(max-width: 270px) {
     body {
         position: absolute;
         top: 0;
         left: 0;
     }
-    
+
 }
