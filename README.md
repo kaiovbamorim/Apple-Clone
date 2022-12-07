@@ -1,9 +1,9 @@
 # Apple - Clone
-Clone página principal da Apple feito apenas com HTML e CSS! 🍎🔥
+Clone página principal da Apple feito apenas com HTML, CSS e JavaScript! 🍎🔥
 <br>
-Link: https://kaiovbamorim.github.io/Apple-Clone/
+Link: https://applepageclone.vercel.app
 
-<img src="https://user-images.githubusercontent.com/108599877/178340630-9a7aac97-ce86-4d6b-a4ad-6bf00cd12731.png">
+<img src="https://user-images.githubusercontent.com/108599877/206295864-b1f5b7fb-b937-4cff-9b3f-f81e438a5ca1.png">
 
 <h2>Mobile:</h2>
 <br>
