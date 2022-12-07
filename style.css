@@ -756,6 +756,10 @@ main {
     color: #6E6E73
 }
 
+.accordion input {
+    display: none;
+}
+
 .boxes-nav-footer a:hover {
     text-decoration: underline;
 }
@@ -1316,6 +1320,7 @@ main {
     .ipad a:after {
         font-size: 16px;
     }
+
     .texto-ipad {
         margin-left: 0;
     }
