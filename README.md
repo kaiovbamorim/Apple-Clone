@@ -1,13 +1,13 @@
-# Apple - Clone
-Clone página principal da Apple feito apenas com HTML, CSS e JavaScript! 🍎🔥
+# Nike - SNKRS
+Projeto pessoal de e-commerce de Sneakers da Nike
 <br>
-Link: https://applepageclone.vercel.app
+Link: https://nikesnkrs.vercel.app
 
-<img src="https://user-images.githubusercontent.com/108599877/206295864-b1f5b7fb-b937-4cff-9b3f-f81e438a5ca1.png">
+<img src="https://user-images.githubusercontent.com/108599877/210185465-d39b0b75-319d-436a-a2a1-f87dd35fc7bb.png">
 
 <h2>Mobile:</h2>
 <br>
 <div style="display: inline">
-  <img src="https://user-images.githubusercontent.com/108599877/206296317-49658d6f-494b-4ac3-9bba-21ea4627ecf2.png" width="calc(100%/2)">
-  <img src="https://user-images.githubusercontent.com/108599877/206296490-d0b52a56-c9b6-442d-8a98-5d97c535645e.png" width="calc(100%/2)">
+  <img src="https://user-images.githubusercontent.com/108599877/210185466-df4c6cfc-2a05-4122-a351-485a20ecf759.png" width="calc(100%/2)">
+  <img src="https://user-images.githubusercontent.com/108599877/210185509-fee17035-0914-4a0b-b04a-ab5b47db0c3e.png" width="calc(100%/2)">
 </div>
